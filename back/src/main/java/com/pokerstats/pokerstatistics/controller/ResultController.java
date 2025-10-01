@@ -5,6 +5,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.pokerstats.pokerstatistics.model.Result;
 import com.pokerstats.pokerstatistics.service.ResultService;
 import java.util.List;
+
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -19,6 +21,7 @@ public class ResultController {
     this.resultService = resultService;
   }
 
+  @CrossOrigin
   @GetMapping
   public List<Result> getResults() {
     return resultService.getAll();

@@ -1,0 +1,847 @@
+{
+  "AA": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 0
+  },
+  "KK": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 1
+  },
+  "QQ": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 1
+  },
+  "JJ": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 2
+  },
+  "TT": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 4
+  },
+  "99": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 7
+  },
+  "88": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 9
+  },
+  "77": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 12
+  },
+  "66": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 16
+  },
+  "55": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 20
+  },
+  "44": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 23
+  },
+  "33": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 23
+  },
+  "22": {
+    "count": 0,
+    "nbPossibility": 6,
+    "rangePercentage": 24
+  },
+  "AKs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 2
+  },
+  "AQs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 2
+  },
+  "AJs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 3
+  },
+  "ATs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 5
+  },
+  "A9s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 8
+  },
+  "A8s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 10
+  },
+  "A7s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 13
+  },
+  "A6s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 14
+  },
+  "A5s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 12
+  },
+  "A4s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 14
+  },
+  "A3s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 14
+  },
+  "A2s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 17
+  },
+  "KQs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 3
+  },
+  "KJs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 3
+  },
+  "KTs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 6
+  },
+  "K9s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 10
+  },
+  "K8s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 16
+  },
+  "K7s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 19
+  },
+  "K6s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 24
+  },
+  "K5s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 25
+  },
+  "K4s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 25
+  },
+  "K3s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 26
+  },
+  "K2s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 26
+  },
+  "QJs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 5
+  },
+  "QTs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 6
+  },
+  "Q9s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 10
+  },
+  "Q8s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 19
+  },
+  "Q7s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 26
+  },
+  "Q6s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 28
+  },
+  "Q5s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 29
+  },
+  "Q4s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 29
+  },
+  "Q3s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 30
+  },
+  "Q2s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 31
+  },
+  "JTs": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 6
+  },
+  "J9s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 11
+  },
+  "J8s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 17
+  },
+  "J7s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 27
+  },
+  "J6s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 33
+  },
+  "J5s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 25
+  },
+  "J4s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 37
+  },
+  "J3s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 37
+  },
+  "J2s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 38
+  },
+  "T9s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 10
+  },
+  "T8s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 16
+  },
+  "T7s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 25
+  },
+  "T6s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 31
+  },
+  "T5s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 40
+  },
+  "T4s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 40
+  },
+  "T3s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 41
+  },
+  "T2s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 41
+  },
+  "98s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 17
+  },
+  "97s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 24
+  },
+  "96s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 29
+  },
+  "95s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 38
+  },
+  "94s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 47
+  },
+  "93s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 47
+  },
+  "92s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 49
+  },
+  "87s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 21
+  },
+  "86s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 27
+  },
+  "85s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 33
+  },
+  "84s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 40
+  },
+  "83s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 53
+  },
+  "82s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 54
+  },
+  "76s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 25
+  },
+  "75s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 28
+  },
+  "74s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 37
+  },
+  "73s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 45
+  },
+  "72s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 56
+  },
+  "65s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 27
+  },
+  "64s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 29
+  },
+  "63s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 38
+  },
+  "62s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 49
+  },
+  "54s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 28
+  },
+  "53s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 32
+  },
+  "52s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 39
+  },
+  "43s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 36
+  },
+  "42s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 41
+  },
+  "32s": {
+    "count": 0,
+    "nbPossibility": 4,
+    "rangePercentage": 46
+  },
+  "AKo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 5
+  },
+  "AQo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 8
+  },
+  "AJo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 12
+  },
+  "ATo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 18
+  },
+  "A9o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 32
+  },
+  "A8o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 39
+  },
+  "A7o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 45
+  },
+  "A6o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 51
+  },
+  "A5o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 44
+  },
+  "A4o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 46
+  },
+  "A3o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 49
+  },
+  "A2o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 54
+  },
+  "KQo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 9
+  },
+  "KJo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 14
+  },
+  "KTo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 20
+  },
+  "K9o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 35
+  },
+  "K8o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 50
+  },
+  "K7o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 57
+  },
+  "K6o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 60
+  },
+  "K5o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 63
+  },
+  "K4o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 67
+  },
+  "K3o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 67
+  },
+  "K2o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 69
+  },
+  "QJo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 15
+  },
+  "QTo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 22
+  },
+  "Q9o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 36
+  },
+  "Q8o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 53
+  },
+  "Q7o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 66
+  },
+  "Q6o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 71
+  },
+  "Q5o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 75
+  },
+  "Q4o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 76
+  },
+  "Q3o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 77
+  },
+  "Q2o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 79
+  },
+  "JTo": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 21
+  },
+  "J9o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 34
+  },
+  "J8o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 48
+  },
+  "J7o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 64
+  },
+  "J6o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 80
+  },
+  "J5o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 82
+  },
+  "J4o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 85
+  },
+  "J3o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 86
+  },
+  "J2o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 87
+  },
+  "T9o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 31
+  },
+  "T8o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 43
+  },
+  "T7o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 59
+  },
+  "T6o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 74
+  },
+  "T5o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 89
+  },
+  "T4o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 90
+  },
+  "T3o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 92
+  },
+  "T2o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 94
+  },
+  "98o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 42
+  },
+  "97o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 55
+  },
+  "96o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 68
+  },
+  "95o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 83
+  },
+  "94o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 95
+  },
+  "93o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 96
+  },
+  "92o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 97
+  },
+  "87o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 52
+  },
+  "86o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 61
+  },
+  "85o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 73
+  },
+  "84o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 88
+  },
+  "83o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 98
+  },
+  "82o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 99
+  },
+  "76o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 57
+  },
+  "75o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 65
+  },
+  "74o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 78
+  },
+  "73o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 93
+  },
+  "72o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 100
+  },
+  "65o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 58
+  },
+  "64o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 70
+  },
+  "63o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 81
+  },
+  "62o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 95
+  },
+  "54o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 62
+  },
+  "53o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 72
+  },
+  "52o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 84
+  },
+  "43o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 76
+  },
+  "42o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 86
+  },
+  "32o": {
+    "count": 0,
+    "nbPossibility": 12,
+    "rangePercentage": 91
+  }
+}

@@ -1,7 +1,8 @@
 package com.pokerstats.pokerstatistics.model;
 
+// TODO remettre en MAJ
 public enum EnumSpeed {
-    TURBO,
-    SEMITURBO,
-    NORMAL,
+    turbo,
+    semiturbo,
+    normal,
 }
