@@ -26,6 +26,11 @@ public class ResultService {
   }
 
   public Result save(Result result) {
-    return resultRepository.save(result);
+    try {
+      return resultRepository.save(result);
+    } catch (Exception e) {
+      System.err.println("Error saving result: " + e.getMessage());
+      return null;
+    }
   }
 }

@@ -18,6 +18,11 @@ public class TournamentService {
   }
 
   public Tournament save(Tournament tournament) {
-    return tournamentRepository.save(tournament);
+    try {
+      return tournamentRepository.save(tournament);
+    } catch (Exception e) {
+      System.err.println("Error saving tournament: " + e.getMessage());
+      return null;
+    }
   }
 }

@@ -24,6 +24,11 @@ public class PlayerService {
   }
 
   public Player save(Player player) {
-    return playerRepository.save(player);
+    try {
+      return playerRepository.save(player);
+    } catch (Exception e) {
+      System.err.println("Error saving player: " + e.getMessage());
+      return null;
+    }
   }
 }
