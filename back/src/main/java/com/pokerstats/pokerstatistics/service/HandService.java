@@ -26,6 +26,11 @@ public class HandService {
   }
 
   public Hand save(Hand hand) {
-    return handRepository.save(hand);
+    try {
+      return handRepository.save(hand);
+    } catch (Exception e) {
+      System.err.println("Error saving hand: " + hand.toString());
+      return null;
+    }
   }
 }

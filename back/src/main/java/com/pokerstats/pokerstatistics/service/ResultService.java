@@ -29,7 +29,7 @@ public class ResultService {
     try {
       return resultRepository.save(result);
     } catch (Exception e) {
-      System.err.println("Error saving result: " + e.getMessage());
+      System.err.println("Error saving result: " + result.toString());
       return null;
     }
   }

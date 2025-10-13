@@ -1,10 +1,8 @@
 package com.pokerstats.pokerstatistics.service;
 
 import org.springframework.stereotype.Service;
-
 import com.pokerstats.pokerstatistics.model.Player;
 import com.pokerstats.pokerstatistics.repository.PlayerRepository;
-
 import java.util.List;
 
 @Service
@@ -27,7 +25,7 @@ public class PlayerService {
     try {
       return playerRepository.save(player);
     } catch (Exception e) {
-      System.err.println("Error saving player: " + e.getMessage());
+      System.err.println("Error saving player: " + player.toString());
       return null;
     }
   }
